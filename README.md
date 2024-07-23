@@ -1,1 +1,5 @@
 ![App1_1](https://github.com/user-attachments/assets/d1929527-88d6-47ea-ab1e-fd46d3880237)
+![App1_Divide](https://github.com/user-attachments/assets/2bb5fb55-6af0-4615-87c5-7f4b36d6e33b)
+![App1_Multiply](https://github.com/user-attachments/assets/da3bc2c0-5afc-4526-b9bf-af4cd148f4f8)
+![App1_Subtract](https://github.com/user-attachments/assets/64724820-2368-4a1d-a802-c0fca2b7f6d7)
+![App1_Addition](https://github.com/user-attachments/assets/a5df2c36-8a86-4f88-852c-b9638ee6c388)
